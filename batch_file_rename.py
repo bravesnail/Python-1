@@ -1,3 +1,4 @@
+#-*-encoding:utf-8 -*-
 # batch_file_rename.py
 # Created: 6th August 2012
 
