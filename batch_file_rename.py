@@ -1,7 +1,7 @@
 #-*-encoding:utf-8 -*-
 # batch_file_rename.py
 # Created: 6th August 2012
-#done
+#Done
 '''
 This will batch rename a group of files in a given directory,
 once you pass the current and new extensions
